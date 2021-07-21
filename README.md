@@ -19,7 +19,7 @@
 
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFaizBastomi%2Fkaguya-bot&count_bg=%2379C83D&title_bg=%23555555&icon=discord.svg&icon_color=%23876EFF&title=Visitor&edge_flat=true" alt="Visitor"/>
-<a href="https://instagram.com/faiz_bastomy" target="_blank"><img src="https://img.shields.io/badge/Follow-Instagram-orange.svg?style=flat-square&logo=instagram"/></a>
+<a href="https://instagram.com/alig._.t" target="_blank"><img src="https://img.shields.io/badge/Follow-Instagram-orange.svg?style=flat-square&logo=instagram"/></a>
 </p>
 
 <h1 align="center">Kaguya Bot</h1>
@@ -37,7 +37,7 @@ This Project Need NodeJS 12x
 
 ### Cloning
 ```sh
-> git clone https://github.com/FaizBastomi/kaguya-bot.git
+> git clone https://github.com/LitRHap/bot-discord-nsfw
 > cd kaguya-bot
 ```
 Install the dependencies:
